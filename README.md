@@ -2,6 +2,8 @@
 
 Aplicación web de **planes nutricionales para personal policial**, pensada para quienes trabajan por turnos. Recomienda comidas según el turno (mañana, tarde o noche), calcula las necesidades calóricas y permite armar planes diarios y semanales.
 
+**🌐 Demo en vivo:** https://juan2052h.github.io/web_samuel_2/
+
 ## ✨ Funcionalidades
 
 - **Recomendaciones por turno**: comidas sugeridas para turnos de mañana (06–14), tarde (14–22) y noche (22–06).
@@ -46,3 +48,7 @@ python -m http.server 8000
 ## ⚠️ Aviso
 
 La información nutricional es orientativa y no reemplaza la recomendación de un profesional de la salud.
+
+## 📄 Licencia
+
+[MIT](LICENSE)
