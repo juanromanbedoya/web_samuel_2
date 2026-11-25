@@ -2,7 +2,7 @@
 
 Aplicación web de **planes nutricionales para personal policial**, pensada para quienes trabajan por turnos. Recomienda comidas según el turno (mañana, tarde o noche), calcula las necesidades calóricas y permite armar planes diarios y semanales.
 
-**🌐 Demo en vivo:** https://juan2052h.github.io/web_samuel_2/
+**🌐 Demo en vivo:** https://juanromanbedoya.github.io/web_samuel_2/
 
 ## ✨ Funcionalidades
 
@@ -23,7 +23,7 @@ HTML5 · CSS3 · JavaScript (sin frameworks ni dependencias)
 No necesita instalación: clona el repositorio y abre `index.html` en el navegador.
 
 ```bash
-git clone https://github.com/juan2052H/web_samuel_2.git
+git clone https://github.com/juanromanbedoya/web_samuel_2.git
 cd web_samuel_2
 ```
 
